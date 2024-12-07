@@ -17,5 +17,3 @@ def rot13(message):
         else:
             newFrase = newFrase + letter
     return newFrase
-
-print(rot13("Isso é um teste"))
